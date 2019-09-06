@@ -1,0 +1,68 @@
+
+
+body {
+    font-family : 'Hind', sans-serif;
+    font-size   : 15px;
+    line-height : 1.8em;
+    color       : #989898;
+    font-weight : 300;
+    background  : #f8f8f8;
+    }
+
+
+
+.header {
+    padding    : 50px 0;
+    margin     : 0;
+    position   : relative;
+    border-top : 5px solid #ff5722;
+    }
+
+
+
+.header .name-wrapper {
+    margin-bottom : 30px;
+    }
+
+.header .name-wrapper h1 {
+    text-transform : uppercase;
+    line-height    : 1;
+    margin         : 0 0 5px;
+    }
+
+.header .name-wrapper span {
+    font-size : 24px;
+    color     : #ff5722;
+    }
+
+.header .personal-details {
+    margin : 10px 0;
+    }
+
+.header .personal-details strong {
+    font-size   : 13px;
+    color       : #444444;
+    display     : block;
+    line-height : 1;
+    }
+
+.header .personal-details small {
+    font-size : 12px;
+    }
+
+.header .personal-details span {
+    color : #989898;
+    }
+.my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+
+
+
+
+
